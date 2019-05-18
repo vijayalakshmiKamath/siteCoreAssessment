@@ -1,0 +1,11 @@
+C:\Users\VKC\source\repos\Selenium\CarTest\bin\Debug\netcoreapp2.1\CarTest.deps.json
+C:\Users\VKC\source\repos\Selenium\CarTest\bin\Debug\netcoreapp2.1\CarTest.runtimeconfig.json
+C:\Users\VKC\source\repos\Selenium\CarTest\bin\Debug\netcoreapp2.1\CarTest.runtimeconfig.dev.json
+C:\Users\VKC\source\repos\Selenium\CarTest\bin\Debug\netcoreapp2.1\CarTest.dll
+C:\Users\VKC\source\repos\Selenium\CarTest\obj\Debug\netcoreapp2.1\CarTest.csprojAssemblyReference.cache
+C:\Users\VKC\source\repos\Selenium\CarTest\obj\Debug\netcoreapp2.1\CarTest.csproj.CoreCompileInputs.cache
+C:\Users\VKC\source\repos\Selenium\CarTest\obj\Debug\netcoreapp2.1\CarTest.AssemblyInfoInputs.cache
+C:\Users\VKC\source\repos\Selenium\CarTest\obj\Debug\netcoreapp2.1\CarTest.AssemblyInfo.cs
+C:\Users\VKC\source\repos\Selenium\CarTest\bin\Debug\netcoreapp2.1\CarTest.pdb
+C:\Users\VKC\source\repos\Selenium\CarTest\obj\Debug\netcoreapp2.1\CarTest.dll
+C:\Users\VKC\source\repos\Selenium\CarTest\obj\Debug\netcoreapp2.1\CarTest.pdb
